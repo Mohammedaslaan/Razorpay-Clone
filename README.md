@@ -1,4 +1,8 @@
 # Razorpay Clone
+
+# Live Link :- https://verdant-yeot-146e56.netlify.app/
+
+# Original Website Link :- https://razorpay.com/
  
 ![SS](https://user-images.githubusercontent.com/81412984/218263333-f1f6545a-2c65-45b9-8382-f3d5d13ae04e.png)
 <br/>
